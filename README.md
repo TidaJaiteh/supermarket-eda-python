@@ -114,6 +114,5 @@ supermarket-analysis/
 Tida Jaiteh
 Information Systems Student
 tida3858817@gmail.com
-  https://github.com/TidaJaiteh
   www.linkedin.com/in/tida-jaiteh-0092ba346
 
